@@ -23,3 +23,10 @@ Add arithmetic operators (add, subtract, multiply, divide) to make the following
         codeChallange.checkAnagrams(first: "punishments", second: "ninethumps")
         print(codeChallange.fibonacciRecursion(n: 10))
         print(codeChallange.fibonacciIteration(n: 10))
+
+  
+            Which architecture would you use for the required task
+        
+         I would use MVC for simplicty as long as there are no much need for code resuability or massive vc
+         But I used MVVM as required
+         
